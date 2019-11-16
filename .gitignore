@@ -1,3 +1,5 @@
-
-DerivedDataCache/Boot.ddc
-DerivedDataCache/Boot.ddc
+Saved/*
+Intermediate/*
+DerivedDataCache/*
+Build/*
+Binaries/*
