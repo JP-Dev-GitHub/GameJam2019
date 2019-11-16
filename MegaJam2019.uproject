@@ -3,8 +3,14 @@
 	"EngineAssociation": "{159F5F7E-4983-0737-E1C9-82971734F35B}",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": false
+		}
+	],
 	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android"
 	]
 }
