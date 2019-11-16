@@ -5,3 +5,8 @@ Build/*
 Binaries/*
 Config/DefaultEngine.ini
 MegaJam2019.uproject
+MegaJam2019.uproject
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/MegaJam2019.log
