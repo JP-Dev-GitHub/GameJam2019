@@ -1,5 +1,6 @@
-Saved/
-Intermediate/
-DerivedDataCache/
-Build/
-Binaries/
+Saved/*
+Intermediate/*
+DerivedDataCache/*
+Build/*
+Binaries/*
+Config/DefaultEngine.ini
