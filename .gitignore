@@ -8,3 +8,5 @@ MegaJam2019.uproject
 /MegaJam2019.uproject
 Packaged/*
 *.uproject
+Content/Levels/Matt_Dev2_BuiltData.uasset
+Content/Levels/ShipLevels/City_01_BuiltData.uasset
